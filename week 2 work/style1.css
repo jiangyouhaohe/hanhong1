@@ -1,0 +1,125 @@
+* {
+  margin: 0px;
+  padding: 0px;
+}
+.bigbox {
+  width: 600px;
+  height: 1060px;
+  background-image: url(https://bucketimage0.oss-cn-beijing.aliyuncs.com/Shape%207%20copy.png);
+}
+.iconfont {
+  font-size: 60px;
+  color: rgba(255, 255, 255, 0.3);
+}
+.icon-tianjia {
+  font-size: 150px;
+}
+.top {
+  display: flex;
+  justify-content: space-between;
+  height: 110px;
+  width: 100%;
+  padding: 10px 0px;
+}
+.top a {
+  text-decoration: none;
+}
+.top-text {
+  font-size: 32px;
+  line-height: 45px;
+  font-family: "[Lato]";
+  color: rgba(255, 255, 255, 0.7);
+}
+.hp {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin-top: 40px;
+}
+.hp-photo {
+  font-size: 20px;
+  color: rgba(255, 255, 255, 0.5);
+}
+.infor {
+  display: flex;
+  flex-wrap: wrap;
+  flex-direction: column;
+  align-items: center;
+  line-height: 80px;
+}
+.infor a {
+  text-align: center;
+  border-bottom: 1px solid rgba(255, 255, 255, 0.5);
+  padding-bottom: 20px;
+}
+.bigbox a:hover {
+  color: #c79de8;
+}
+input[type="text"] {
+  color: rgb(255, 255, 255);
+  background-color: rgba(255, 255, 255, 0);
+  width: 400px;
+  height: 70px;
+  border: 0px;
+  font-size: 26px;
+  line-height: 50px;
+  outline: none;
+}
+input::placeholder {
+  color: rgba(255, 255, 255, 0.8);
+}
+.next {
+  display: flex;
+  margin: 20px auto;
+  justify-content: space-around;
+}
+.next a {
+  text-decoration: none;
+  font-size: 26px;
+  color: #fff;
+  font-family: "[Lato]";
+}
+.next .show a {
+  color: #46d6b0;
+}
+.sign {
+  width: 438px;
+  height: 80px;
+  background-color: #fff;
+  border-radius: 60px;
+  margin: 70px auto 30px auto;
+  font-size: 32px;
+  line-height: 80px;
+  text-align: center;
+  font-family: "[Lato]";
+}
+.sign1 {
+  font-size: 24px;
+  width: 600px;
+  height: 40px;
+  text-align: center;
+}
+.sign1 p {
+  display: inline-block;
+  color: #fff;
+}
+.sign1 .signin {
+  color: #46d6b0;
+}
+.button {
+  text-align: center;
+}
+input[type="button"] {
+  width: 438px;
+  height: 80px;
+  background-color: #fff;
+  border-radius: 60px;
+  margin: 30px auto 30px auto;
+  font-size: 32px;
+  line-height: 80px;
+  text-align: center;
+  font-family: "[Lato]";
+  color: rgb(187, 126, 199);
+  border: none;
+}
+
