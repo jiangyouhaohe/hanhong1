@@ -1,0 +1,37 @@
+{
+  "id": "3788433",
+  "name": "demo",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "145479",
+      "name": "添加",
+      "font_class": "tianjia",
+      "unicode": "e657",
+      "unicode_decimal": 58967
+    },
+    {
+      "icon_id": "15838615",
+      "name": "prompt-filling",
+      "font_class": "prompt-filling",
+      "unicode": "e68b",
+      "unicode_decimal": 59019
+    },
+    {
+      "icon_id": "2488440",
+      "name": "感叹号中",
+      "font_class": "gantanhaozhong",
+      "unicode": "e8e5",
+      "unicode_decimal": 59621
+    },
+    {
+      "icon_id": "7549838",
+      "name": "进/补",
+      "font_class": "RectangleCopy",
+      "unicode": "e6ac",
+      "unicode_decimal": 59052
+    }
+  ]
+}
